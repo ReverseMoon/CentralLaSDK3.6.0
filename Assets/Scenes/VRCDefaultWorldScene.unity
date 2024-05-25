@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 1
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 2100000, guid: 043e331246f242147b1284e224739169, type: 2}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 89909915f61a80741ae07a11de6d58c0, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -524,10 +524,10 @@ MonoBehaviour:
   useAssignedLayers: 0
   DynamicPrefabs: []
   DynamicMaterials:
-  - {fileID: 2100000, guid: c6c6de54ea85bce4083926ad2a7afcdb, type: 2}
-  - {fileID: 2100000, guid: a156e1fb6e28b6849b9ab8eebe2a0c29, type: 2}
-  - {fileID: 2100000, guid: a2374d5fa9c037e4b8166d296ea6a999, type: 2}
-  - {fileID: 2100000, guid: a92798e060688b74bad381e411f36415, type: 2}
+  - {fileID: 2100000, guid: cf55d87363da3cf4db60de79ab14be21, type: 2}
+  - {fileID: 2100000, guid: 2c374656936772846aa100caf2cf1a84, type: 2}
+  - {fileID: 2100000, guid: d2732bdbb4c2de34ca416ae050735ddc, type: 2}
+  - {fileID: 2100000, guid: 06967ac9e8a234b4bbe9f5085c1f35a5, type: 2}
   LightMapsNear: []
   LightMapsFar: []
   LightMode: 0
@@ -652,7 +652,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a92798e060688b74bad381e411f36415, type: 2}
+  - {fileID: 2100000, guid: 06967ac9e8a234b4bbe9f5085c1f35a5, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

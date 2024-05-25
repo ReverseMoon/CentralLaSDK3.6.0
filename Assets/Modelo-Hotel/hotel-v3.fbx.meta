@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 4a93c8b5500d97842bf0b51e41bae2ee
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 3f2ff512d6272cf46a455f9897daca6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: borde_terraza_led
+    second: {fileID: 2100000, guid: f3ee8634add1ccd418356807c79bacb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: franjas-color
+    second: {fileID: 2100000, guid: da1203cb0c59ad341b515b80e95126cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: d003fd0498046e34dad37508e3f0b774, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesas-blancas
+    second: {fileID: 2100000, guid: 03e46b478682f9c4cb6d0c06acc7ea84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal oficina
+    second: {fileID: 2100000, guid: b7d3adbf846d01b409db9fc11145ca38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal-escalera
+    second: {fileID: 2100000, guid: 35215ccdf94782e4eb451ba05b53e643, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal-goma
+    second: {fileID: 2100000, guid: 5f8f9dfda5da2d449bbc10a99a3bbbd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vidrio
+    second: {fileID: 2100000, guid: 7b32995e63e3969409c6d543574e0291, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: escalones
+    second: {fileID: 2800000, guid: 367ba1e452fe221468114d5c46e597b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: uv_mapper
+    second: {fileID: 2800000, guid: 8418f873b40886c419c22b4b78c02c5f, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["Object160","Object042","patio-037","Box177","Box151","Object095","patio-020","Lobby-13","Lobby-047","Object043","Box174","patio-044","Lobby-051","patio-033","Lobby-041","Object143","Box178","Box076","neon-borde-travertino","Box160","patio-06","Lobby-04","Box158","Box170","Object097","Object164","Object086","Object083","Box085","Object055","Object045","Object075","Object077","patio-042","Object080","Lobby-15","Shape004","patio-032","Lobby-01","Object163","patio-030","patio-016","Lobby-31","Box157","patio-031","Object044","patio-036","ascensores-03","Object090","Object094","Lobby-05","Lobby-050","Box159","Box171","Object162","Rectangle010","terraza-001","Lobby-24","patio-041","Object060","Box164","Object057","Object046","Lobby-12","Box172","Object093","Lobby-039","Lobby-33","Object101","patio-029","patio-013","Object149","Object051","Lobby-30","Object087","patio-035","luces-piso-pb","Object064","patio-009","patio-040","patio-043","patio-01","Lobby-18","Lobby-03","patio-025","Object056","patio-038","Lobby-045","Lobby-044","Lobby-16","ascensores-00","Lobby-34","Lobby-08","patio-011","Object091","Lobby-22","pillow-referencia","Object058","Lobby-055","Lobby-048","Lobby-20","Object081","Object096","Box167","Lobby-10","Object156","Rectangle015","Object063","Lobby-054","Lobby-040","patio-039","patio-026","Lobby-21","Lobby-043","Line002","Rectangle011","Object102","Lobby-25","Object076","patio-028","patio-015","Lobby-36","Lobby-046","Object085","Object047","Lobby-02","patio-04","Object074","Object054","patio-03","Rectangle014","Box147","Box169","patio-014","Box163","Object062","patio-05","patio-022","Object048","Object099","Object098","Object161","Object061","Box161","Box166","Lobby-06","Box093","Box021","Object150","Lobby-049","Lobby-27","Lobby-29","Box165","Lobby-037","patio-02","patio-021","patio-018","Object059","Object159","Box173","Object053","Lobby-00","Lobby-038","Object092","Object084","Lobby-19","patio-045","patio-034","Object082","Lobby-052","patio-027","Lobby-17","Object100","Box153","patio-007"],"padding":[113,190,167,218,54,50,25,33,51,256,222,131,50,38,51,32,222,9,17,37,5,57,54,171,56,45,101,41,141,24,8,225,196,57,41,39,22,114,31,46,45,30,76,89,137,8,256,69,24,50,11,54,35,218,47,34,9,66,19,16,109,6,15,22,137,51,37,13,69,45,25,20,43,12,22,151,83,10,30,57,172,26,50,57,42,24,25,37,51,34,19,43,34,25,24,71,256,43,65,54,38,203,47,171,34,54,58,6,58,37,75,127,71,37,32,59,69,68,196,137,23,68,37,103,46,11,31,129,24,26,52,103,83,19,109,9,18,127,47,56,56,113,8,54,109,70,27,65,143,50,17,12,109,51,52,5,25,54,29,222,48,4,51,51,41,25,43,50,26,73,19,36,56,37,18],"unwrapper":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]}'
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

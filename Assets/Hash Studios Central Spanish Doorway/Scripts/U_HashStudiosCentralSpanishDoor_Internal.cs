@@ -115,6 +115,13 @@ public class U_HashStudiosCentralSpanishDoor_Internal : UdonSharpBehaviour
         }
     }
 
+    public void FixedUpdate(){
+        if(detectPlayersScript.allPlayers.Length <= 0 && isLocked == true && mainScript.isVIP == false)
+        {
+            toggleLockOff();
+        }
+    }
+
     public void setCounter(int i)
     {
         foreach(TextMeshProUGUI tm in playerCount)
@@ -138,6 +145,26 @@ public class U_HashStudiosCentralSpanishDoor_Internal : UdonSharpBehaviour
         {
             Networking.SetOwner(Networking.LocalPlayer, this.gameObject);
             SetProgramVariable(nameof(isLocked), !isLocked);
+            checkLock();
+        }
+        
+    }
+
+    public void toggleLockOff()
+    {
+        if(mainScript.isVIP == true)
+        {
+            if (isPlayerVIP(Networking.LocalPlayer.displayName) == true)
+            {
+                Networking.SetOwner(Networking.LocalPlayer, this.gameObject);
+                SetProgramVariable(nameof(isLocked), false);
+                checkLock();
+            }
+        }
+        else
+        {
+            Networking.SetOwner(Networking.LocalPlayer, this.gameObject);
+            SetProgramVariable(nameof(isLocked), false);
             checkLock();
         }
         

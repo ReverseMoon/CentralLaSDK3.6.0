@@ -36,7 +36,7 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties:
-    - '#BAKERY{"meshName":["ascensor-lobby-00","ascensor-lobby-10","ascensor-lobby-07","ascensor-lobby-03","ascensor-lobby-09","ascensor-lobby-12","ascensor-lobby-05","ascensor-lobby-06","ascensor-lobby-02","ascensor-lobby-13","ascensor-lobby-04","ascensor-lobby-11","ascensor-lobby-01","ascensor-lobby-08"],"padding":[147,78,183,121,43,218,238,143,133,156,124,150,256,178],"unwrapper":[0,0,0,0,0,0,0,0,0,0,0,0,0,0]}'
+    - '#BAKERY{"meshName":["ascensor-lobby-13","ascensor-lobby-12","ascensor-lobby-11","ascensor-lobby-10","ascensor-lobby-09","ascensor-lobby-08","ascensor-lobby-07","ascensor-lobby-06","ascensor-lobby-05","ascensor-lobby-04","ascensor-lobby-03","ascensor-lobby-02","ascensor-lobby-01","ascensor-lobby-00"],"padding":[156,218,150,78,43,178,183,143,238,124,121,133,256,147],"unwrapper":[0,0,0,0,0,0,0,0,0,0,0,0,0,0]}'
     clipAnimations: []
     isReadable: 0
   meshes:

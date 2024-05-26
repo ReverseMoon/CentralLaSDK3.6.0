@@ -21,17 +21,21 @@ MonoBehaviour:
   totalVertexCount: 0
   vertexCounter: 0
   sceneLodLevel: -1
+  autoResolution: 0
   sceneName: 
+  tag: -1
   containsTerrains: 0
   probes: 0
   mode: 1
   renderMode: 1000
   renderDirMode: 1000
   atlasPacker: 1000
+  holeFilling: 0
   computeSSS: 0
   sssSamples: 16
   sssDensity: 10
   sssColor: {r: 1, g: 1, b: 1, a: 1}
+  sssScale: 1
   fakeShadowBias: 0
   transparentSelfShadow: 0
   flipNormal: 0
@@ -39,3 +43,4 @@ MonoBehaviour:
   overridePath: 
   fixPos3D: 0
   voxelSize: {x: 1, y: 1, z: 1}
+  passedFilter: 1

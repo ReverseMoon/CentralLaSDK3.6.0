@@ -46,7 +46,7 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties:
-    - '#BAKERY{"meshName":["Keyboard_pc","Monitor_pc"],"padding":[256,256],"unwrapper":[0,0]}'
+    - '#BAKERY{"meshName":["Monitor_pc","Keyboard_pc"],"padding":[256,256],"unwrapper":[0,0]}'
     clipAnimations: []
     isReadable: 0
   meshes:

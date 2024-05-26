@@ -41,7 +41,7 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties:
-    - '#BAKERY{"meshName":["muebles-entrada-04","muebles-entrada-01","muebles-entrada-00","muebles-entrada-02","muebles-entrada-03","muebles-entrada-05","muebles-entrada-06","muebles-entrada-07"],"padding":[121,35,256,32,32,51,256,43],"unwrapper":[0,0,0,0,0,0,0,0]}'
+    - '#BAKERY{"meshName":["muebles-entrada-07","muebles-entrada-06","muebles-entrada-05","muebles-entrada-03","muebles-entrada-02","muebles-entrada-00","muebles-entrada-04","muebles-entrada-01"],"padding":[43,256,51,32,32,256,121,35],"unwrapper":[0,0,0,0,0,0,0,0]}'
     clipAnimations: []
     isReadable: 0
   meshes:

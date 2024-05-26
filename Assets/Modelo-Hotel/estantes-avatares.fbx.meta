@@ -51,7 +51,7 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties:
-    - '#BAKERY{"meshName":["Object181","Box035","Object182","Object196","Box014","Box033","Box050","Object207","Box016","Object206","Plane003","Box034","Box043","Object190","Box010","Box046","Box039","Box044","Rectangle003","Box049","Object205","Object180","Box048","Box037","Object045","Object195","Rectangle007","Box047","Box045","Plane002","Box018","Box041","Object194","Plane001","Box019","Box036","Object187","Box017","Object179","Object191","Box015","Rectangle006"],"padding":[30,256,31,33,56,50,53,17,41,129,80,68,256,32,39,256,98,98,121,256,130,31,254,52,12,256,121,98,254,88,114,254,201,61,52,52,47,34,15,55,52,121],"unwrapper":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]}'
+    - '#BAKERY{"meshName":["Rectangle007","Rectangle006","Rectangle003","Plane003","Plane002","Plane001","Object207","Object206","Object205","Object196","Object195","Object194","Object191","Object190","Object187","Object182","Object181","Object180","Box050","Box049","Box048","Box047","Box046","Box045","Box044","Box043","Box041","Box039","Box037","Box036","Box035","Box034","Box033","Box019","Box018","Box017","Box016","Box015","Box014","Box010","Object045","Object179"],"padding":[121,121,121,80,88,61,17,129,130,33,256,201,55,32,47,31,30,31,53,256,254,98,256,254,98,256,254,98,52,52,256,68,50,52,114,34,41,52,56,39,12,15],"unwrapper":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]}'
     clipAnimations: []
     isReadable: 0
   meshes:

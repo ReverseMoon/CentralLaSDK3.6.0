@@ -51,7 +51,7 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties:
-    - '#BAKERY{"meshName":["VRC_pedestal1","Object166","ESTATUA-ITACHIJJ-mesh"],"padding":[256,256,8],"unwrapper":[0,0,0]}'
+    - '#BAKERY{"meshName":["Object166","VRC_pedestal1","ESTATUA-ITACHIJJ-mesh"],"padding":[256,256,8],"unwrapper":[0,0,0]}'
     clipAnimations: []
     isReadable: 0
   meshes:
